@@ -1,6 +1,5 @@
 import User from '../models/User';
 import Notification from '../schemas/Notification';
-import { updateLocale } from 'moment';
 
 class NotificationController {
   async index(req, res) {
@@ -23,7 +22,7 @@ class NotificationController {
       .sort({ createdAt: 'desc' })
       .limit(20);
 
-    return res.json({ notifications });
+    return res.json(notifications);
   }
 
   async update(req, res) {
