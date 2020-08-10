@@ -2,12 +2,7 @@
   GoBarber API REST, created with Express
 </h3>
 
-<p align="center">
-  <a href="#-project-features">Project features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-techs">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
-
-## Project features
+## Features <a name="sometext"></a>
 
 * User login
 * Create/Update User
