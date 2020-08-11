@@ -13,8 +13,8 @@
 * List providers
 * Notifications
 
-**web client**, click here: [GoBarber Web](https://github.com/Gabriel-Agrelli/gobarber_frontend)<br />
-**mobile client**, click here: [GoBarber Mobile](https://github.com/Gabriel-Agrelli/gobarber_mobile)
+**Web**, click here: [GoBarber Web](https://github.com/Gabriel-Agrelli/gobarber_frontend)<br />
+**Mobile App**, click here: [GoBarber Mobile](https://github.com/Gabriel-Agrelli/gobarber_mobile)
 
 ## Techs
 
